@@ -25,7 +25,7 @@
     font-family: 'Bangers', cursive;
 }
 #title1::before{
-    content: 'et bonne route! :)';
+    content: 'et bonne route! :) Cédric,';
     position: absolute;
     bottom: -70px;
     font-size: 40px;
